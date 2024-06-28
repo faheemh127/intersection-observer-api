@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/intersection-observer-api/static/css/main.f855e6bc.css",
+    "main.js": "/intersection-observer-api/static/js/main.cb38512d.js",
+    "static/js/453.d0b5c090.chunk.js": "/intersection-observer-api/static/js/453.d0b5c090.chunk.js",
+    "index.html": "/intersection-observer-api/index.html",
+    "main.f855e6bc.css.map": "/intersection-observer-api/static/css/main.f855e6bc.css.map",
+    "main.cb38512d.js.map": "/intersection-observer-api/static/js/main.cb38512d.js.map",
+    "453.d0b5c090.chunk.js.map": "/intersection-observer-api/static/js/453.d0b5c090.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.cb38512d.js"
+  ]
+}
